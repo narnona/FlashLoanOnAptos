@@ -44,8 +44,9 @@ FA Coin：`0xfedcac427cbfd4676eefae4a524f3ab210d3f8923bd7d61067532bf45f0a6a68`
 
 项目中的User目录是进行闪贷的合约示例，其已发布到：`0xe9daa4331018373a7d1c4ee797dc9a4348ac9e9564e30f99e68e22acd1913bd5`
 
+<br>
 
-
+> Aptos Explor (Testnet): https://explorer.aptoslabs.com/?network=testnet
 
 
 
