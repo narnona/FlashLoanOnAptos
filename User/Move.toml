@@ -1,0 +1,14 @@
+[package]
+name = "User"
+version = "1.0.0"
+authors = []
+
+[addresses]
+UseFlash = "0xe9daa4331018373a7d1c4ee797dc9a4348ac9e9564e30f99e68e22acd1913bd5"
+[dev-addresses]
+
+[dependencies]
+AptosFramework = {git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+FlashLoan = { local = "../FlashLoan" }
+
+[dev-dependencies]

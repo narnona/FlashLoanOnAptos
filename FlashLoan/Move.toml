@@ -1,0 +1,15 @@
+[package]
+name = "FlashLoan"
+version = "1.0.0"
+authors = []
+
+[addresses]
+FlashLoan = "0xee0adabd12721e8b28ca9616d4410a765f175b209748cb87ce86a389fc47b5d0"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
